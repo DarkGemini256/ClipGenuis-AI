@@ -10,7 +10,7 @@ import Contact from "./pages/Contact";
 import PaymentSuccess from "./pages/PaymentSuccess";
 import PaymentFailure from "./pages/PaymentFailure";
 import NotFound404 from "./pages/NotFound404";
-import Blog from "./pages/Blog";
+
 
 export default function App() {
   return (
