@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+# production
+/public_html
+
+# misc
+.DS_Store
+
+# environment variables
+.env
