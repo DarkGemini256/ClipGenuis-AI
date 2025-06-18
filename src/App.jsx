@@ -25,7 +25,7 @@ export default function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/payment-success" element={<PaymentSuccess />} />
         <Route path="/payment-failure" element={<PaymentFailure />} />
-        <Route path="/blog" element={<Blog />} />
+        
         <Route path="*" element={<NotFound404 />} />
       </Routes>
     </Router>
