@@ -1,4 +1,4 @@
-# ClipGenuis-AI
+
 # ClipGenius AI
 
 Effortless, AI-powered video editing and clipping.
